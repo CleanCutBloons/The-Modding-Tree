@@ -1,11 +1,11 @@
 let modInfo = {
-	name: "The ??? Tree",
+	name: "The Business Chain",
 	id: "71u5h51h23j5kb15h23b1j",
 	author: "CleanCutBloons",
-	pointsName: "cash",
+	pointsName: "Cash",
 	discordName: "",
 	discordLink: "",
-	initialStartPoints: new Decimal (10), // Used for hard resets and new players
+	initialStartPoints: new Decimal (100), // Used for hard resets and new players
 	
 	offlineLimit: 0,  // In hours
 }
